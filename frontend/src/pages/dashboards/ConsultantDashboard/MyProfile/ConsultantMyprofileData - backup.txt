@@ -1,0 +1,33 @@
+<div className='col-md-6 col-12'>
+    <div className='text-center text-md mb-3'>Graduate</div>
+    <div className='row'>
+        <div className='col-5 d-flex flex-column p-0' style={{ gap: '10px' }}>
+            <div className='col col-auto font-weight-bold'>Country</div>
+            <div className='col col-auto font-weight-bold'>Degree Name</div>
+            <div className='col col-auto font-weight-bold'>School Name</div>
+            <div className='col col-auto font-weight-bold'>Year Graduate</div>
+            <div className='col col-auto font-weight-bold'>No of Degree</div>
+            <div className='col col-auto font-weight-bold'>Education Specialisation</div>
+        </div>
+        <div className='col-7 d-flex flex-column p-0' style={{ gap: '10px' }}>
+            <div className='col col-auto paragraph-text'>
+                {ConsultantProfile[0]?.EducationDetails[0]?.graduate_country[0]?.name}
+            </div>
+            <div className='col paragraph-text'>
+                {ConsultantProfile[0]?.EducationDetails[0]?.gra_degree_name}
+            </div>
+            <div className='col col-auto paragraph-text'>
+                {ConsultantProfile[0]?.EducationDetails[0]?.gra_school_name}
+            </div>
+            <div className='col paragraph-text'>
+                {ConsultantProfile[0]?.EducationDetails[0]?.gra_year_of_graduation}
+            </div>
+            <div className='col col-auto paragraph-text'>
+                {ConsultantProfile[0]?.EducationDetails[0]?.gra_num_of_degree}
+            </div>
+            <div className='col paragraph-text'>
+                {ConsultantProfile[0]?.EducationDetails[0]?.SpecializationName[0]?.name}
+            </div>
+        </div>
+    </div>
+</div>

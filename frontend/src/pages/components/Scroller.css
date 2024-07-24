@@ -1,0 +1,13 @@
+.text-scroller .hidden:not(.fadeOutDown, .fadeOutDown) {
+  display: none;
+}
+
+.text-scroller .fadeOutDown {
+  animation: fadeOutDown 0.2s ease-in;
+  opacity: 0;
+}
+
+.text-scroller .fadeInDown {
+  animation: fadeInDown 0.2s ease-in;
+  opacity: 0;
+}
