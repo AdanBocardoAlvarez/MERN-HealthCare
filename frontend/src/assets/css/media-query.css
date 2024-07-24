@@ -1,0 +1,67 @@
+@media only screen and (max-width: 600px) {
+  .label-bnr {
+    font-size: 12px;
+  }
+  .slider__headingtext {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  .slider__content {
+    font-size: 15px;
+  }
+  .booking__page_card {
+    font-size: 0.7rem;
+  }
+  .booking__page__section {
+    width: 100%;
+    padding: 0 10%;
+  }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .label-bnr {
+    font-size: 16px;
+  }
+  .slider__headingtext {
+    font-size: 36px;
+  }
+  .slider__content {
+    font-size: 16px;
+  }
+  .booking__page_card {
+    font-size: 0.8rem;
+  }
+  .booking__page__section {
+    width: 100%;
+  }
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .label-bnr {
+    font-size: 18px;
+  }
+  .slider__headingtext {
+    font-size: 48px;
+  }
+  .slider__content {
+    font-size: 18px;
+  }
+  .booking__page_card {
+    font-size: 1.1rem;
+  }
+  .booking__page__section {
+    width: 100%;
+  }
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .booking__page__section {
+    width: 100%;
+  }
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .booking__page__section {
+    width: auto;
+  }
+}

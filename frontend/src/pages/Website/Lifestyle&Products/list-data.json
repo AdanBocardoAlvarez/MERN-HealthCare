@@ -1,0 +1,115 @@
+[
+    {
+        "image": "image-1.png",
+        "title": "Neem",
+        "sub_title": "Azadirachta indica",
+        "keys": [
+            "skin-conditions",
+            "digestive-issue",
+            "infection"
+        ]
+    },
+    {
+        "image": "image-2.png",
+        "title": "Tulsi",
+        "sub_title": "Holy Basil",
+        "keys": [
+            "respiratory-health",
+            "boost-immunity",
+            "promote-overall-wellbeing"
+        ]
+    },
+    {
+        "image": "image-3.png",
+        "title": "Bhringraj",
+        "sub_title": "Eclipta Prostrata",
+        "keys": [
+            "hair-growth",
+            "reduce-hair-loss",
+            "skin-conditions"
+        ]
+    },
+    {
+        "image": "image-4.png",
+        "title": "Ashwagandha",
+        "sub_title": "Withania Somnifera",
+        "keys": [
+            "reduce-stress",
+            "improves-cognitive-function",
+            "boost-immune-function",
+            "increase-energy",
+            "balance-hormones"
+        ]
+    },
+    {
+        "image": "image-5.png",
+        "title": "Amla",
+        "sub_title": "Emblica Officinails",
+        "keys": [
+            "support-digestion",
+            "enhance-skin-health",
+            "nourishing-properties",
+            "balance-hormones"
+        ]
+    },
+    {
+        "image": "image-6.png",
+        "title": "Guggle",
+        "sub_title": "Commiphora Wightii",
+        "keys": [
+            "joint-health",
+            "cardiovascular-support",
+            "weight-management",
+            "thyroid-function"
+        ]
+    },
+    {
+        "image": "image-7.png",
+        "title": "Guduchi",
+        "sub_title": "Tinospora Cordifolia",
+        "keys": [
+            "digestive-support",
+            "cardiovascular",
+            "anti-inflammatory",
+            "adaptogenic",
+            "antioxidant",
+            "liver-health",
+            "immune-support"
+        ]
+    },
+    {
+        "image": "image-8.png",
+        "title": "Shatavari",
+        "sub_title": "Asparagus Racemosus",
+        "keys": [
+            "female-reproductive-health",
+            "immune-support",
+            "digestive-health",
+            "anti-inflammatory",
+            "adaptogenic-properties"
+        ]
+    },
+    {
+        "image": "image-9.png",
+        "title": "Brahmi",
+        "sub_title": "Bacopa Monnier",
+        "keys": [
+            "hair-care",
+            "anti-inflammatory",
+            "skin-conditions",
+            "antioxidant-content"
+        ]
+    },
+    {
+        "image": "image-10.png",
+        "title": "Arjuna",
+        "sub_title": "Terminalia Arjuna",
+        "keys": [
+            "cardiovascular-support",
+            "anti-inflammatory",
+            "heart-tonic",
+            "antioxidant-properties",
+            "digestive-health"
+        ]
+    }
+]
